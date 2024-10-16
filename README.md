@@ -1,4 +1,5 @@
-Hi. I'm Weslen Mombach
+Hi. I'm Weslen Severo Mombach!
+
 I am a developer, 25 years old, and my goal is to create and develop functional, responsive, and creative systems/websites that continuously enhance the user experience.
 
 In 2022, I decided to specialize and gain a deeper understanding of the development process and technologies. Currently, I am studying to work as a developer, focusing on Front End development technologies such as:
