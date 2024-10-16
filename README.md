@@ -1,4 +1,5 @@
-I'm Weslen, 25 years old, and my goal is to create and develop functional, responsive, and creative systems/websites that continuously enhance the user experience.
+<h1>Hi. I'm Weslen Mombach<h1/>
+I am a developer, 25 years old, and my goal is to create and develop functional, responsive, and creative systems/websites that continuously enhance the user experience.
 
 In 2022, I decided to specialize and gain a deeper understanding of the development process and technologies. Currently, I am studying to work as a developer, focusing on Front End development technologies such as:
 
@@ -22,5 +23,7 @@ Driven by participation/integration in projects I believe in and always seeking 
  
 <div> 
   <a href="https://instagram.com/weslenmombach" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/weslenmombach/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+  <a href="mailto:weslenseveromombachcei@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+  <a href="https://www.gmail.com/weslenseveromombach@gmail.com/" target="_blank"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"></a> 
+
 </div>
